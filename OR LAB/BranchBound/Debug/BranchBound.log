@@ -1,0 +1,37 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(209,22): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(209,64): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(220,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(225,26): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(339,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(521,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(564,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(632,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Source.cpp(636,27): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  BranchBound.vcxproj -> D:\NIKKY\Academics\Semester 8\OR LAB\BranchBound\Debug\BranchBound.exe

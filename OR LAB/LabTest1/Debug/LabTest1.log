@@ -1,0 +1,28 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(203,22): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(203,64): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(219,26): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(252,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(286,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(294,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(354,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Source.cpp(358,27): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  LabTest1.vcxproj -> D:\NIKKY\Academics\Semester 8\OR LAB\LabTest1\Debug\LabTest1.exe

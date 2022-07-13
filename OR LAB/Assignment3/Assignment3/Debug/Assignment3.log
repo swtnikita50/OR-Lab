@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,16): error C2065: 'ptr': undeclared identifier
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,21): error C2065: 'ptr2': undeclared identifier
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,27): error C2065: 'm': undeclared identifier
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,30): error C2065: 'n': undeclared identifier
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(214,1): error C2365: 'print_solution': redefinition; previous definition was 'function'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(142): message : see declaration of 'print_solution'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(215,1): error C2059: syntax error: 'return'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(216,1): error C2059: syntax error: '}'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(216,1): error C2143: syntax error: missing ';' before '}'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(219,1): error C2143: syntax error: missing ';' before '{'
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment3\Assignment3\Source.cpp(219,1): error C2447: '{': missing function header (old-style formal list?)

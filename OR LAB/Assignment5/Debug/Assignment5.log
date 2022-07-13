@@ -1,0 +1,39 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(131,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(247,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(255,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(315,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(338,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(375,22): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(375,64): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(386,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(391,26): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(457,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(461,27): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(488,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(557,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(568,26): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Source.cpp(580,20): warning C4018: '<=': signed/unsigned mismatch
+  Assignment5.vcxproj -> D:\NIKKY\Academics\Semester 8\OR LAB\Assignment5\Debug\Assignment5.exe

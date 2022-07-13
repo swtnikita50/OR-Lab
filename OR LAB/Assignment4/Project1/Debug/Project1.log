@@ -1,0 +1,28 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(239,22): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(239,64): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(255,26): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(435,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Source.cpp(439,27): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Project1.vcxproj -> D:\NIKKY\Academics\Semester 8\OR LAB\Assignment4\Project1\Debug\Project1.exe

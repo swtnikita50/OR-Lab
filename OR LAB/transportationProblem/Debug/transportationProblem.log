@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(314,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(393,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(406,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(472,20): warning C4018: '<': signed/unsigned mismatch
+D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Source.cpp(473,21): warning C4018: '<': signed/unsigned mismatch
+  transportationProblem.vcxproj -> D:\NIKKY\Academics\Semester 8\OR LAB\transportationProblem\Debug\transportationProblem.exe
